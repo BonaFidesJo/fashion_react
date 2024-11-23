@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fashion_react/static/css/main.22869251.css",
+    "main.js": "/fashion_react/static/js/main.84a2294a.js",
+    "static/media/01.jpg": "/fashion_react/static/media/01.017049d2382aed038912.jpg",
+    "static/media/sale.jpg": "/fashion_react/static/media/sale.2bbb28756d3d3e6c1845.jpg",
+    "static/media/03.jpg": "/fashion_react/static/media/03.1efbe2fccb1574db9ba3.jpg",
+    "static/media/02.jpg": "/fashion_react/static/media/02.874ae21c11a9ca2c4d05.jpg",
+    "static/media/Levis.svg": "/fashion_react/static/media/Levis.0d6cb95ed9d140bbce3d13aa38eff354.svg",
+    "static/media/Amazon.svg": "/fashion_react/static/media/Amazon.217323c723b1ce80b4f48f6f9797aec9.svg",
+    "static/media/HM.svg": "/fashion_react/static/media/HM.fb08d9e0489634330b72bfc181989bc4.svg",
+    "static/media/Shopify.svg": "/fashion_react/static/media/Shopify.99efc5da465b70481ef02e40c0802632.svg",
+    "static/media/header_logo.svg": "/fashion_react/static/media/header_logo.a72662540a0c8c51b0417ab80463d16e.svg",
+    "static/media/Lacoste.svg": "/fashion_react/static/media/Lacoste.09843bccbf25358b9356beed43cbabcf.svg",
+    "static/media/Obey.svg": "/fashion_react/static/media/Obey.cba45e2f53c42702d3d9eb7d4733bd17.svg",
+    "static/media/02.svg": "/fashion_react/static/media/02.6ac485a1e29f4990c31bf025ebf08611.svg",
+    "static/media/03.svg": "/fashion_react/static/media/03.cf855fc3495f0fc34f0d1d19de8dc7ff.svg",
+    "static/media/04.svg": "/fashion_react/static/media/04.3e3db72ec234d50f3b1aab9ce047d6b6.svg",
+    "index.html": "/fashion_react/index.html",
+    "static/media/arrow.svg": "/fashion_react/static/media/arrow.8b7c471b7fda9ba44f53a56169951f29.svg",
+    "static/media/01.svg": "/fashion_react/static/media/01.7319920fbf438e8197869dcaedb84a7b.svg",
+    "static/media/decor.svg": "/fashion_react/static/media/decor.e9a0fbaa79c895c92e33.svg",
+    "main.22869251.css.map": "/fashion_react/static/css/main.22869251.css.map",
+    "main.84a2294a.js.map": "/fashion_react/static/js/main.84a2294a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22869251.css",
+    "static/js/main.84a2294a.js"
+  ]
+}
